@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzan_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzan-khan-2b9509427/)
-[![Medium](https://img.shields.io/badge/Medium-@azanawankhan222-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@azanawankhan222)
+[![Medium](https://img.shields.io/badge/Medium-@uzankhan-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@azanawankhan222)
 [![GitHub](https://img.shields.io/badge/GitHub-uzankhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzankhan)
 ![Profile views](https://komarev.com/ghpvc/?username=uzankhan&label=Profile+Views&color=7b61ff&style=for-the-badge)
 
